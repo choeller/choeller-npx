@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "choeller",
+  "version": "1.0.0",
+  "description": "A personal card for Christoph Höller (@choeller)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/choeller/choeller-npx.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Christoph Höller <mail@christoph-hoeller.net> (http://christoph-hoeller.net)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
